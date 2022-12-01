@@ -1,0 +1,24 @@
+.features {
+    padding-bottom: 0;
+}
+
+.features__list {
+    display: flex;
+    gap: 30px;
+    align-items: start;
+}
+
+.icon-card {
+    background-color: #F5F4FA;
+    height: 120px;
+    padding: 25px 100px;
+    margin-bottom: 30px;
+}
+
+.features__heading {
+    margin-bottom: 10px;
+    color: $title-color;
+    font-size: 14px;
+    line-height: 1.14;
+    text-transform: uppercase;
+}
